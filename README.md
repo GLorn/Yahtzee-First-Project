@@ -1,2 +1,4 @@
-# Yahtzee-First-Project
- A playable game of Yahtzee!
+# **Yahtzee!**
+## First Python Collaboration Project
+
+
