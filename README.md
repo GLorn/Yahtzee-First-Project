@@ -1,4 +1,5 @@
-# **Yahtzee!** <img src="https://icons.veryicon.com/png/o/miscellaneous/other/dice-19.png" width="200">
+# **Yahtzee!**
+<img src="https://icons.veryicon.com/png/o/miscellaneous/other/dice-19.png" width="150">
 ## First Python Collaboration Project
 ##### Contributors
 - Kaori Goto
