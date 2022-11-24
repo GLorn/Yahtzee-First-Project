@@ -7,4 +7,7 @@
 - Kaori Goto
 - Connor Spinks
 
-### Hello
+### Hello!
+
+First project creating a simple game of Yahtzee!
+
